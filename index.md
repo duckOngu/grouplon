@@ -23,6 +23,6 @@ Watch Tuh' stream now at: [<img src="https://cdn.tgdd.vn/2020/03/GameApp/Faceboo
 ### Mith
 
 
-#### This page builds with Jekyll Themes.
+<footer> This page builds with Jekyll Themes. </footer>
 
 
