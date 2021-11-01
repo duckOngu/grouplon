@@ -2,7 +2,7 @@
 
 ## Who are we?
 Planes, birds? We are Guardian of the Galaxy.
-![](https://i.ibb.co/d6cQ9Z4/Untitled.png)  
+![](https://user-images.githubusercontent.com/92536111/139684866-cf997b9a-2b80-4db1-a07b-41f70813f725.png)  
 
 <p align="center"><iframe width="600" height="650" src="https://app.sketchtogether.com/s/sketch/NzQTw.2.1/"></iframe></p>
 
